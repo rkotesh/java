@@ -1,0 +1,656 @@
+2026-08-12 09:11:23.540: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-12 09:11:23.540: [INFO] Profiles total count: 1
+2026-08-12 09:11:23.540: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-08-12 09:11:23.540: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-12 09:11:23.540: [INFO] OnDoneLoading sync enabled: 0
+2026-08-12 09:11:23.540: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-12 09:11:23.540: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-12 09:11:23.540: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-12 09:11:38.885: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-12 09:11:40.636: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-12 09:11:40.636: [INFO] Profiles total count: 1
+2026-08-12 09:11:40.637: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-12T09:11:26.898Z
+2026-08-12 09:11:40.637: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-12 09:11:40.637: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-12T09:11:26.898Z
+2026-08-12 09:11:40.637: [INFO] OnDoneLoading sync enabled: 0
+2026-08-12 09:11:40.637: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-12 09:11:40.637: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-12 09:11:40.637: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-12 09:15:48.326: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-12 09:32:02.199: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-12 09:32:02.199: [INFO] Profiles total count: 1
+2026-08-12 09:32:02.199: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-12T09:15:45.750Z
+2026-08-12 09:32:02.199: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-12 09:32:02.199: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-12T09:15:45.750Z
+2026-08-12 09:32:02.199: [INFO] OnDoneLoading sync enabled: 0
+2026-08-12 09:32:02.199: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-12 09:32:02.199: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-12 09:32:02.199: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-12 09:33:10.039: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-12 09:33:42.884: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-12 09:33:42.884: [INFO] Profiles total count: 1
+2026-08-12 09:33:42.885: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-12T09:32:42.468Z
+2026-08-12 09:33:42.885: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-12 09:33:42.885: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-12T09:32:42.468Z
+2026-08-12 09:33:42.885: [INFO] OnDoneLoading sync enabled: 0
+2026-08-12 09:33:42.885: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-12 09:33:42.885: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-12 09:33:42.885: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-12 09:34:08.851: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-12 09:34:37.991: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-12 09:34:37.991: [INFO] Profiles total count: 1
+2026-08-12 09:34:37.991: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-12T09:34:05.943Z
+2026-08-12 09:34:37.991: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-12 09:34:37.991: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-12T09:34:05.943Z
+2026-08-12 09:34:37.992: [INFO] OnDoneLoading sync enabled: 0
+2026-08-12 09:34:37.992: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-12 09:34:37.992: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-12 09:34:37.992: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-12 16:26:57.232: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 04:57:49.659: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 04:57:49.659: [INFO] Profiles total count: 1
+2026-08-13 04:57:49.660: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-12T09:34:05.943Z
+2026-08-13 04:57:49.660: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 04:57:49.660: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-12T09:34:05.943Z
+2026-08-13 04:57:49.660: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 04:57:49.660: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 04:57:49.660: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 04:57:49.660: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 05:17:16.807: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 05:28:23.238: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 05:28:23.238: [INFO] Profiles total count: 1
+2026-08-13 05:28:23.238: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 05:28:23.238: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 05:28:23.238: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 05:28:23.238: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 05:28:23.238: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 05:28:23.238: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 05:28:23.238: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 06:22:14.519: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 06:22:42.330: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 06:22:42.330: [INFO] Profiles total count: 1
+2026-08-13 06:22:42.330: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 06:22:42.330: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 06:22:42.330: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 06:22:42.330: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 06:22:42.330: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 06:22:42.330: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 06:22:42.330: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 06:43:49.081: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 06:45:31.215: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 06:45:31.215: [INFO] Profiles total count: 1
+2026-08-13 06:45:31.216: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 06:45:31.216: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 06:45:31.216: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 06:45:31.216: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 06:45:31.216: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 06:45:31.216: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 06:45:31.216: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 06:45:37.597: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 06:46:24.935: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 06:46:24.935: [INFO] Profiles total count: 1
+2026-08-13 06:46:24.935: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 06:46:24.935: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 06:46:24.935: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 06:46:24.935: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 06:46:24.935: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 06:46:24.935: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 06:46:24.935: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 06:49:29.320: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 06:49:56.630: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 06:49:56.630: [INFO] Profiles total count: 1
+2026-08-13 06:49:56.633: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 06:49:56.633: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 06:49:56.633: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 06:49:56.633: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 06:49:56.633: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 06:49:56.633: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 06:49:56.633: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 06:50:01.713: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 08:06:54.468: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 08:06:54.468: [INFO] Profiles total count: 1
+2026-08-13 08:06:54.468: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 08:06:54.468: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 08:06:54.468: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 08:06:54.468: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 08:06:54.468: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 08:06:54.468: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 08:06:54.468: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 08:07:01.187: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 08:07:21.685: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 08:07:21.685: [INFO] Profiles total count: 1
+2026-08-13 08:07:21.685: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 08:07:21.685: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 08:07:21.685: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 08:07:21.685: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 08:07:21.685: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 08:07:21.685: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 08:07:21.685: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 08:07:21.913: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 09:26:43.403: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 09:26:43.403: [INFO] Profiles total count: 1
+2026-08-13 09:26:43.404: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 09:26:43.404: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 09:26:43.404: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 09:26:43.404: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 09:26:43.404: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 09:26:43.404: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 09:26:43.404: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 09:26:51.261: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 09:28:17.603: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 09:28:17.603: [INFO] Profiles total count: 1
+2026-08-13 09:28:17.605: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 09:28:17.605: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 09:28:17.606: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-13 09:28:17.606: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 09:28:17.606: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 09:28:17.606: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 09:28:17.606: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 09:30:18.241: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 06:09:35.209: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 06:09:35.209: [INFO] Profiles total count: 1
+2026-08-14 06:09:35.209: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-14 06:09:35.209: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 06:09:35.209: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-13T05:17:16.494Z
+2026-08-14 06:09:35.209: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 06:09:35.209: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 06:09:35.209: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 06:09:35.210: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 09:23:03.726: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 09:23:34.338: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 09:23:34.338: [INFO] Profiles total count: 1
+2026-08-14 09:23:34.339: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T09:22:25.741Z
+2026-08-14 09:23:34.339: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 09:23:34.339: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T09:22:25.741Z
+2026-08-14 09:23:34.339: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 09:23:34.339: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 09:23:34.339: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 09:23:34.339: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 09:40:53.861: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 09:41:00.150: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 09:41:00.151: [INFO] Profiles total count: 1
+2026-08-14 09:41:00.151: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T09:40:52.267Z
+2026-08-14 09:41:00.151: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-14 09:41:00.151: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T09:40:52.267Z
+2026-08-14 09:41:00.151: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 09:41:00.151: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 09:41:00.151: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 09:41:00.151: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-15 05:53:47.467: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 03:55:54.689: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 03:55:54.689: [INFO] Profiles total count: 1
+2026-08-17 03:55:54.689: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T09:40:52.267Z
+2026-08-17 03:55:54.689: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 03:55:54.690: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T09:40:52.267Z
+2026-08-17 03:55:54.690: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 03:55:54.690: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 03:55:54.690: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 03:55:54.690: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 03:56:28.596: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 04:00:37.370: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 04:00:37.370: [INFO] Profiles total count: 1
+2026-08-17 04:00:37.371: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T03:56:27.851Z
+2026-08-17 04:00:37.371: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 04:00:37.371: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T03:56:27.851Z
+2026-08-17 04:00:37.371: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 04:00:37.371: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 04:00:37.371: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 04:00:37.371: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 06:16:04.862: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 06:23:37.742: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 06:23:37.742: [INFO] Profiles total count: 1
+2026-08-17 06:23:37.743: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 06:23:37.743: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 06:23:37.743: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 06:23:37.743: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 06:23:37.743: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 06:23:37.743: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 06:23:37.743: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 06:23:41.063: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 06:23:50.429: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 06:23:50.429: [INFO] Profiles total count: 1
+2026-08-17 06:23:50.429: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 06:23:50.429: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 06:23:50.429: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 06:23:50.429: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 06:23:50.429: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 06:23:50.429: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 06:23:50.429: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 06:28:19.886: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 06:28:54.335: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 06:28:54.335: [INFO] Profiles total count: 1
+2026-08-17 06:28:54.335: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 06:28:54.335: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 06:28:54.335: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 06:28:54.335: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 06:28:54.335: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 06:28:54.335: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 06:28:54.335: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 06:29:17.048: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 06:34:25.470: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 06:34:25.470: [INFO] Profiles total count: 1
+2026-08-17 06:34:25.470: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 06:34:25.470: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 06:34:25.470: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 06:34:25.470: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 06:34:25.470: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 06:34:25.470: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 06:34:25.470: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 06:44:30.007: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 07:59:53.249: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 07:59:53.249: [INFO] Profiles total count: 1
+2026-08-17 07:59:53.249: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 07:59:53.249: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 07:59:53.249: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 07:59:53.249: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 07:59:53.249: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 07:59:53.249: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 07:59:53.249: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 08:00:11.724: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 08:06:51.128: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 08:06:51.128: [INFO] Profiles total count: 1
+2026-08-17 08:06:51.128: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 08:06:51.128: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 08:06:51.128: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 08:06:51.128: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 08:06:51.128: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 08:06:51.128: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 08:06:51.128: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 08:07:23.449: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 08:09:34.160: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 08:09:34.160: [INFO] Profiles total count: 1
+2026-08-17 08:09:34.161: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 08:09:34.161: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 08:09:34.161: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 08:09:34.161: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 08:09:34.161: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 08:09:34.161: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 08:09:34.161: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 08:10:08.488: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 08:10:59.244: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 08:10:59.244: [INFO] Profiles total count: 1
+2026-08-17 08:10:59.244: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 08:10:59.244: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 08:10:59.244: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 08:10:59.244: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 08:10:59.244: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 08:10:59.244: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 08:10:59.244: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 08:11:46.808: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 08:30:42.820: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 08:30:42.820: [INFO] Profiles total count: 1
+2026-08-17 08:30:42.821: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 08:30:42.821: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 08:30:42.821: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 08:30:42.821: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 08:30:42.821: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 08:30:42.821: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 08:30:42.821: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 09:59:30.837: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 10:08:27.312: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 10:08:27.312: [INFO] Profiles total count: 1
+2026-08-17 10:08:27.312: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 10:08:27.312: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 10:08:27.312: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 10:08:27.312: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 10:08:27.312: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 10:08:27.312: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 10:08:27.312: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 10:20:59.545: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 10:22:05.212: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 10:22:05.212: [INFO] Profiles total count: 1
+2026-08-17 10:22:05.212: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 10:22:05.212: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 10:22:05.212: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 10:22:05.212: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 10:22:05.212: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 10:22:05.212: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 10:22:05.212: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 10:22:05.512: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 10:23:30.996: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 10:23:30.996: [INFO] Profiles total count: 1
+2026-08-17 10:23:30.996: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 10:23:30.996: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 10:23:30.996: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 10:23:30.996: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 10:23:30.996: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 10:23:30.996: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 10:23:30.996: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 10:23:31.280: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 10:23:40.156: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 10:23:40.156: [INFO] Profiles total count: 1
+2026-08-17 10:23:40.156: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 10:23:40.156: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 10:23:40.156: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 10:23:40.156: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 10:23:40.156: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 10:23:40.156: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 10:23:40.156: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 10:23:48.383: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 10:24:09.653: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 10:24:09.653: [INFO] Profiles total count: 1
+2026-08-17 10:24:09.653: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 10:24:09.653: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 10:24:09.653: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-17 10:24:09.653: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 10:24:09.653: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 10:24:09.653: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 10:24:09.653: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 10:32:21.918: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 03:47:14.280: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 03:47:14.280: [INFO] Profiles total count: 1
+2026-08-18 03:47:14.280: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-18 03:47:14.280: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 03:47:14.280: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T06:15:42.033Z
+2026-08-18 03:47:14.280: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 03:47:14.280: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 03:47:14.280: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 03:47:14.280: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 03:49:14.688: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 03:50:45.038: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 03:50:45.038: [INFO] Profiles total count: 1
+2026-08-18 03:50:45.038: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T03:49:13.203Z
+2026-08-18 03:50:45.038: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 03:50:45.038: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T03:49:13.203Z
+2026-08-18 03:50:45.038: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 03:50:45.038: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 03:50:45.038: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 03:50:45.038: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 04:26:48.890: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 04:30:25.097: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 04:30:25.097: [INFO] Profiles total count: 1
+2026-08-18 04:30:25.098: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T03:49:13.203Z
+2026-08-18 04:30:25.098: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 04:30:25.098: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T03:49:13.203Z
+2026-08-18 04:30:25.098: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 04:30:25.098: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 04:30:25.098: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 04:30:25.098: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 04:32:06.482: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 04:32:06.568: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 04:32:06.568: [INFO] Profiles total count: 1
+2026-08-18 04:32:06.568: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T03:49:13.203Z
+2026-08-18 04:32:06.568: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 04:32:06.568: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T03:49:13.203Z
+2026-08-18 04:32:06.568: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 04:32:06.568: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 04:32:06.568: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 04:32:06.568: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 05:22:55.265: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 07:48:53.757: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 07:48:53.757: [INFO] Profiles total count: 1
+2026-08-18 07:48:53.757: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T03:49:13.203Z
+2026-08-18 07:48:53.757: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 07:48:53.757: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T03:49:13.203Z
+2026-08-18 07:48:53.757: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 07:48:53.757: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 07:48:53.757: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 07:48:53.757: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 07:52:56.554: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 07:56:18.920: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 07:56:18.920: [INFO] Profiles total count: 1
+2026-08-18 07:56:18.921: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 07:56:18.921: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 07:56:18.921: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 07:56:18.921: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 07:56:18.921: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 07:56:18.921: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 07:56:18.921: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 07:56:36.259: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 07:57:04.519: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 07:57:04.519: [INFO] Profiles total count: 1
+2026-08-18 07:57:04.521: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 07:57:04.521: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 07:57:04.522: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 07:57:04.522: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 07:57:04.522: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 07:57:04.522: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 07:57:04.522: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 08:08:13.527: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 08:10:39.370: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 08:10:39.370: [INFO] Profiles total count: 1
+2026-08-18 08:10:39.370: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 08:10:39.370: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 08:10:39.370: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 08:10:39.370: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 08:10:39.371: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 08:10:39.371: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 08:10:39.371: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 08:18:47.294: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 08:19:57.586: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 08:19:57.586: [INFO] Profiles total count: 1
+2026-08-18 08:19:57.586: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 08:19:57.586: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 08:19:57.587: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 08:19:57.587: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 08:19:57.587: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 08:19:57.587: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 08:19:57.587: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 08:20:05.263: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 08:27:41.904: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 08:27:41.904: [INFO] Profiles total count: 1
+2026-08-18 08:27:41.904: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 08:27:41.904: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 08:27:41.904: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 08:27:41.904: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 08:27:41.904: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 08:27:41.904: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 08:27:41.904: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 08:30:12.545: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 08:30:12.595: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 08:30:12.595: [INFO] Profiles total count: 1
+2026-08-18 08:30:12.595: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 08:30:12.595: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 08:30:12.595: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 08:30:12.595: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 08:30:12.595: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 08:30:12.595: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 08:30:12.595: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 08:30:41.500: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 08:33:27.335: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 08:33:27.335: [INFO] Profiles total count: 1
+2026-08-18 08:33:27.335: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 08:33:27.335: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 08:33:27.335: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T07:52:56.414Z
+2026-08-18 08:33:27.335: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 08:33:27.335: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 08:33:27.335: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 08:33:27.336: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 17:21:07.067: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 03:43:30.703: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 03:43:30.703: [INFO] Profiles total count: 1
+2026-08-19 03:43:30.703: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T09:11:37.393Z
+2026-08-19 03:43:30.703: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 03:43:30.703: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T09:11:37.393Z
+2026-08-19 03:43:30.703: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 03:43:30.703: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 03:43:30.703: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 03:43:30.703: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 03:44:09.987: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 03:45:32.083: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 03:45:32.083: [INFO] Profiles total count: 1
+2026-08-19 03:45:32.084: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-19T03:44:04.718Z
+2026-08-19 03:45:32.084: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 03:45:32.084: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-19T03:44:04.718Z
+2026-08-19 03:45:32.084: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 03:45:32.084: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 03:45:32.084: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 03:45:32.084: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 03:47:54.142: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 03:53:43.509: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 03:53:43.510: [INFO] Profiles total count: 1
+2026-08-19 03:53:43.510: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-19T03:47:50.670Z
+2026-08-19 03:53:43.510: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 03:53:43.510: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-19T03:47:50.670Z
+2026-08-19 03:53:43.510: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 03:53:43.510: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 03:53:43.510: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 03:53:43.510: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 08:32:18.093: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 08:32:56.898: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 08:32:56.898: [INFO] Profiles total count: 1
+2026-08-19 08:32:56.898: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-19T05:24:18.854Z
+2026-08-19 08:32:56.898: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 08:32:56.898: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-19T05:24:18.854Z
+2026-08-19 08:32:56.898: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 08:32:56.898: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 08:32:56.898: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 08:32:56.898: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 15:53:12.028: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 03:57:25.982: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 03:57:25.982: [INFO] Profiles total count: 1
+2026-08-20 03:57:25.983: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-19T08:33:43.123Z
+2026-08-20 03:57:25.983: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 03:57:25.983: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-19T08:33:43.123Z
+2026-08-20 03:57:25.983: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 03:57:25.983: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 03:57:25.983: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 03:57:25.983: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 10:38:56.520: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-21 03:55:40.928: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-21 03:55:40.928: [INFO] Profiles total count: 1
+2026-08-21 03:55:40.929: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T03:59:53.191Z
+2026-08-21 03:55:40.929: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-21 03:55:40.929: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-20T03:59:53.191Z
+2026-08-21 03:55:40.929: [INFO] OnDoneLoading sync enabled: 0
+2026-08-21 03:55:40.929: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-21 03:55:40.929: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-21 03:55:40.929: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-21 10:40:26.842: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-30 15:56:32.183: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-30 15:56:32.183: [INFO] Profiles total count: 1
+2026-08-30 15:56:32.184: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-21T05:15:28.438Z
+2026-08-30 15:56:32.184: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-30 15:56:32.184: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-21T05:15:28.438Z
+2026-08-30 15:56:32.184: [INFO] OnDoneLoading sync enabled: 0
+2026-08-30 15:56:32.184: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-30 15:56:32.184: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-30 15:56:32.184: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-31 07:27:12.707: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-31 07:27:12.707: [INFO] Profiles total count: 1
+2026-08-31 07:27:12.708: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-21T05:15:28.438Z
+2026-08-31 07:27:12.708: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-31 07:27:12.708: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-21T05:15:28.438Z
+2026-08-31 07:27:12.708: [INFO] OnDoneLoading sync enabled: 0
+2026-08-31 07:27:12.708: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-31 07:27:12.708: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-31 07:27:12.708: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-31 16:00:09.744: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-03 03:50:21.476: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-03 03:50:21.476: [INFO] Profiles total count: 1
+2026-09-03 03:50:21.476: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-31T07:29:36.910Z
+2026-09-03 03:50:21.476: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-03 03:50:21.476: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-31T07:29:36.910Z
+2026-09-03 03:50:21.476: [INFO] OnDoneLoading sync enabled: 0
+2026-09-03 03:50:21.476: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-03 03:50:21.476: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-03 03:50:21.476: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-03 18:27:45.220: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-05 06:13:15.531: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-05 06:13:15.531: [INFO] Profiles total count: 1
+2026-09-05 06:13:15.531: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-03T03:57:38.219Z
+2026-09-05 06:13:15.531: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-05 06:13:15.531: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-03T03:57:38.219Z
+2026-09-05 06:13:15.531: [INFO] OnDoneLoading sync enabled: 0
+2026-09-05 06:13:15.531: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-05 06:13:15.531: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-05 06:13:15.531: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-05 14:32:32.815: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-07 04:08:12.611: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-07 04:08:12.611: [INFO] Profiles total count: 1
+2026-09-07 04:08:12.611: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-03T03:57:38.219Z
+2026-09-07 04:08:12.611: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-07 04:08:12.611: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-03T03:57:38.219Z
+2026-09-07 04:08:12.611: [INFO] OnDoneLoading sync enabled: 0
+2026-09-07 04:08:12.611: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-07 04:08:12.611: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-07 04:08:12.611: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-07 10:32:14.101: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-08 04:07:11.742: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-08 04:07:11.742: [INFO] Profiles total count: 1
+2026-09-08 04:07:11.742: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-08 04:07:11.742: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-08 04:07:11.742: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-08 04:07:11.742: [INFO] OnDoneLoading sync enabled: 0
+2026-09-08 04:07:11.742: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-08 04:07:11.742: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-08 04:07:11.742: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 03:56:20.900: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 03:56:20.900: [INFO] Profiles total count: 1
+2026-09-09 03:56:20.900: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-09 03:56:20.900: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 03:56:20.900: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-09 03:56:20.900: [INFO] OnDoneLoading sync enabled: 0
+2026-09-09 03:56:20.900: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-09 03:56:20.900: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-09 03:56:20.900: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 06:02:10.311: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 03:46:07.755: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 03:46:07.755: [INFO] Profiles total count: 1
+2026-09-10 03:46:07.755: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-10 03:46:07.755: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 03:46:07.755: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-10 03:46:07.755: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 03:46:07.755: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 03:46:07.755: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 03:46:07.755: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:18:55.500: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:21:08.419: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:21:08.419: [INFO] Profiles total count: 1
+2026-09-10 10:21:08.419: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-10 10:21:08.419: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:21:08.419: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-10 10:21:08.419: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 10:21:08.419: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 10:21:08.419: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 10:21:08.419: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:28:11.928: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:33:25.522: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:33:25.522: [INFO] Profiles total count: 1
+2026-09-10 10:33:25.522: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-10 10:33:25.522: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:33:25.522: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-10 10:33:25.522: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 10:33:25.522: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 10:33:25.522: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 10:33:25.522: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:33:48.133: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 04:49:23.179: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 04:49:23.179: [INFO] Profiles total count: 1
+2026-09-16 04:49:23.179: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-16 04:49:23.179: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 04:49:23.179: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-16 04:49:23.179: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 04:49:23.179: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 04:49:23.179: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 04:49:23.179: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 04:49:27.517: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 04:54:23.483: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 04:54:23.483: [INFO] Profiles total count: 1
+2026-09-16 04:54:23.483: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-16 04:54:23.483: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 04:54:23.483: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-16 04:54:23.483: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 04:54:23.483: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 04:54:23.483: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 04:54:23.483: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 04:56:47.085: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 04:56:49.711: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 04:56:49.711: [INFO] Profiles total count: 1
+2026-09-16 04:56:49.711: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-16 04:56:49.711: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 04:56:49.711: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-16 04:56:49.711: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 04:56:49.711: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 04:56:49.711: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 04:56:49.711: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 04:57:36.114: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 05:09:26.929: [INFO] CurrentProfilePath: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 05:09:26.929: [INFO] Profiles total count: 1
+2026-09-16 05:09:26.930: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-16 05:09:26.930: [INFO] LastUsedProfileDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 05:09:26.930: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-07T06:31:12.524Z
+2026-09-16 05:09:26.930: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 05:09:26.930: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 05:09:26.930: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 05:09:26.930: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

@@ -1,0 +1,29 @@
+package Demo;
+
+public class Binary_search {
+    public static int binarySearch(int[] arr, int target) {
+        // The loop runs as long as low <= high. 
+        // Notice we leave the update section blank because low/high change based on conditions.
+        for (int low = 0, high = arr.length - 1; low <= high; ) {
+            int mid = low + (high - low) / 2;
+
+            if (arr[mid] == target) {
+                return mid; // Target found
+            } else if (arr[mid] < target) {
+                low = mid + 1; // Move right pointer
+            } else {
+                high = mid - 1; // Move left pointer
+            }
+        }
+
+        return -1; // Target not found
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {10, 20, 30, 40, 50, 60, 70, 80};
+        int target = 50;
+
+        int result = binarySearch(arr, target);
+        System.out.println("Index: " + result); // Output: Index: 4
+    }
+}

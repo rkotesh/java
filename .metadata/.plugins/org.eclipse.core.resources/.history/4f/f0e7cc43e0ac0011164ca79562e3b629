@@ -1,0 +1,64 @@
+package Demo;
+
+public class Delete_Node {
+    static class Node {
+        int data;
+        Node next;
+
+        Node(int data) {
+            this.data = data;
+        }
+    }
+
+    Node head = null;
+
+    void insertAtBeginning(int data) {
+        Node newNode = new Node(data);
+        newNode.next = head;
+        head = newNode;
+    }
+
+    void display() {
+        Node current = head;
+        while (current != null) {
+            System.out.print(current.data + " -> ");
+            current = current.next;
+        }
+        System.out.println("null");
+    }
+
+    void delete(int value) {
+        if (head == null) {
+            return;
+        }
+
+        if (head.data == value) {
+            head = head.next;
+            return;
+        }
+
+        Node current = head;
+        while (current.next != null && current.next.data != value) {
+            current = current.next;
+        }
+
+        if (current.next != null) {
+            current.next = current.next.next;
+        }
+    }
+
+    public static void main(String[] args) {
+    	
+        Delete_Node list = new Delete_Node(); 
+        
+        list.insertAtBeginning(30);
+        list.insertAtBeginning(20);
+        list.insertAtBeginning(10);
+        list.insertAtBeginning(5);
+        
+        list.display();
+
+        list.delete(20);
+        list.display();
+    }
+}

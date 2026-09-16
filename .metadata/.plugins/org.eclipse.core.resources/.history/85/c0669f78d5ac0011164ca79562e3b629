@@ -1,0 +1,32 @@
+package Demo;
+
+import Demo.Linkedlist_ex.Node;
+
+public class InsertAtBeginning {
+	static class Node {
+		int data;
+		Node next;
+		
+		Node(int data) {
+			this.data = data;
+		}
+	}
+	
+	Node head = null;
+	
+	void insertAtBeginning(int data) {
+		Node newNode = new Node(data);
+		
+		newNode.next = head;
+		head = newNode;
+		
+	}
+	
+	while(current.next != null) {
+		System.out.println(current.data + " -> ");
+		current = current.next;
+	}
+	
+	
+	
+}

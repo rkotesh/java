@@ -1,0 +1,103 @@
+import java.io.IOException;
+import java.math.BigInteger;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+import org.json.JSONObject;
+
+public class main {
+
+    static class Point {
+        BigInteger x;
+        BigInteger y;
+        Point(BigInteger x, BigInteger y) { this.x = x; this.y = y; }
+    }
+
+    public static void main(String[] args) throws IOException {
+
+        // Step A: Read the JSON file as text
+        String content = new String(Files.readAllBytes(Paths.get("testcase.json")));
+        JSONObject root = new JSONObject(content);
+
+        // Step B: Extract n and k
+        JSONObject keysObj = root.getJSONObject("keys");
+        int n = keysObj.getInt("n");
+        int k = keysObj.getInt("k");
+        System.out.println("n = " + n + ", k = " + k);
+
+        // Step C: Parse every point, decoding y from its given base
+        List<Point> points = new ArrayList<>();
+        Iterator<String> fieldNames = root.keys();
+        while (fieldNames.hasNext()) {
+            String key = fieldNames.next();
+            if (key.equals("keys")) continue; // skip metadata block
+
+            JSONObject entry = root.getJSONObject(key);
+            int base = Integer.parseInt(entry.getString("base"));
+            String value = entry.getString("value");
+
+            BigInteger xVal = new BigInteger(key);
+            BigInteger yVal = new BigInteger(value, base);
+
+            points.add(new Point(xVal, yVal));
+        }
+
+        System.out.println("Decoded points:");
+        for (Point p : points) {
+            System.out.println("(" + p.x + ", " + p.y + ")");
+        }
+
+        // Step D: Pick the first k points (sorted by x) to interpolate
+        points.sort((a, b) -> a.x.compareTo(b.x));
+        List<Point> chosen = points.subList(0, k);
+
+        // Step E: Interpolate to find the constant term
+        BigInteger secret = lagrangeConstantTerm(chosen);
+
+        System.out.println();
+        System.out.println("Constant term (secret) c = " + secret);
+    }
+
+    // Computes P(0) via Lagrange interpolation using exact fraction arithmetic
+    private static BigInteger lagrangeConstantTerm(List<Point> pts) {
+        int k = pts.size();
+        BigInteger[] numerators = new BigInteger[k];
+        BigInteger[] denominators = new BigInteger[k];
+
+        for (int i = 0; i < k; i++) {
+            BigInteger num = pts.get(i).y;
+            BigInteger den = BigInteger.ONE;
+
+            for (int j = 0; j < k; j++) {
+                if (i == j) continue;
+                num = num.multiply(pts.get(j).x.negate());
+                den = den.multiply(pts.get(i).x.subtract(pts.get(j).x));
+            }
+            numerators[i] = num;
+            denominators[i] = den;
+        }
+
+        BigInteger commonDen = BigInteger.ONE;
+        for (BigInteger d : denominators) {
+            commonDen = lcm(commonDen, d.abs());
+        }
+
+        BigInteger totalNumerator = BigInteger.ZERO;
+        for (int i = 0; i < k; i++) {
+            BigInteger scale = commonDen.divide(denominators[i].abs());
+            BigInteger term = numerators[i].multiply(scale);
+            if (denominators[i].signum() < 0) term = term.negate();
+            totalNumerator = totalNumerator.add(term);
+        }
+
+        return totalNumerator.divide(commonDen);
+    }
+
+    private static BigInteger lcm(BigInteger a, BigInteger b) {
+        if (a.equals(BigInteger.ZERO) || b.equals(BigInteger.ZERO)) return a.max(b);
+        return a.divide(a.gcd(b)).multiply(b);
+    }
+}

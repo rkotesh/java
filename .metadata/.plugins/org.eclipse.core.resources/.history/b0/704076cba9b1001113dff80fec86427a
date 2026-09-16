@@ -1,0 +1,44 @@
+package demo;
+
+import java.util.*;
+
+public class DFSStack {
+    static void dfs(ArrayList<ArrayList<Integer>> graph, int start) {
+        boolean[] visited = new boolean[graph.size()];
+        Stack<Integer> stack = new Stack<>();
+
+        stack.push(start);
+
+        while (!stack.isEmpty()) {
+            int current = stack.pop();
+
+            if (visited[current]) {
+                continue;
+            }
+
+            visited[current] = true;
+            System.out.print(current + " ");
+
+            for (int i = graph.get(current).size() - 1; i >= 0; i--) {
+                int neighbour = graph.get(current).get(i);
+                if (!visited[neighbour]) {
+                    stack.push(neighbour);
+                }
+            }
+        }
+    }
+
+    public static void main(String[] args) {
+    	
+        int vertices = 5;
+        
+        ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
+
+        graph.get(0).add(1);
+        graph.get(0).add(2);
+        graph.get(1).add(0);
+        
+
+        dfs(graph, 0);
+    }
+}

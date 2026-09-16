@@ -1,0 +1,65 @@
+package Demo;
+
+public class Stack_dsa {
+    private int[] stack;
+    private int top;
+    private int capacity;
+
+    Stack_dsa(int capacity) {
+        this.capacity = capacity;
+        stack = new int[capacity];
+        top = -1;
+    }
+
+    void push(int value) {
+        if (top == capacity - 1) {
+            System.out.println("Stack Overflow");
+            return;
+        }
+        stack[++top] = value;
+    }
+
+    int pop() {
+        if (isEmpty()) {
+            System.out.println("Stack Underflow");
+            return -1;
+        }
+        return stack[top--];
+    }
+
+    int peek() {
+        if (isEmpty()) {
+            System.out.println("Stack is empty");
+            return -1;
+        }
+        return stack[top];
+    }
+
+    boolean isEmpty() {
+        return top == -1;
+    }
+    
+    void display() {
+    	for(int i = top; i >= 0; i--) {
+    		System.out.print(stack[i] + " ");
+    	}
+    	System.out.println();
+    }
+
+    public static void main(String[] args) {
+    	
+        Stack_dsa myStack = new Stack_dsa(5);
+
+        myStack.push(10);
+        myStack.push(20);
+        myStack.push(30);
+        myStack.push(40);
+        
+        myStack.display();
+        
+        System.out.println("Popped Element : " + myStack.pop());
+        System.out.println("Top element : " + myStack.peek());
+                
+        myStack.display();
+    }
+}

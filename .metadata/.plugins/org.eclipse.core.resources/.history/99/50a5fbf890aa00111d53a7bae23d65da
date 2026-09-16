@@ -1,0 +1,13 @@
+package Demo;
+
+public class Hello {
+	public static void main(String[] args) {
+		
+		// create and access an array -> time complexity O(1)
+		int [] arr = {1, 2, 4, 5};
+		int value = arr[2];
+		System.out.println(value);
+		
+		
+	}
+}

@@ -1,0 +1,8 @@
+package Demo;
+
+public class Linear_time {
+	int n = 5;
+	for (int i = 0; i <= n; i++) {
+		System.out.println(n);
+	}
+}
