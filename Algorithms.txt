@@ -1,0 +1,248 @@
+Greedy Algorithm
+
+it builds a solution step by step by choosing the best available choice at the current moment hoping that those local choice, 
+produces a globally optimal solution and the best idea 
+
+	choose the best current option
+		|
+	add it to solution
+		|
+	reduce remaining problem
+		|
+	     repeat.
+
+
+1. when should you think that greedy looks for a problems involving maximum & minimum requirement 
+2. scheduling task
+3. selecting the activities
+4. intervals
+5. jobs & deadlines
+6. minimum cost
+7. connecting objects
+
+ex: a company has one conference room that can be used by only one team at a time.
+different teams have requested the rooms for meeting at different times.
+the meeting schedule is:
+
+Meeting A -> 1 - 3
+Meeting B -> 2 - 4
+Meeting C -> 3 - 5
+Meeting D -> 5 - 7
+Meeting E -> 5 - 9
+Meeting F -> 8 - 10
+
+
+
+Sort activities by finish time
+
+        ↓
+
+Select the first activity
+
+        ↓
+
+Remember its finish time
+
+        ↓
+
+Check next activity
+
+        ↓
+Does start >= lastFinish?
+       / \
+     Yes  No
+      ↓    ↓
+   Select  Skip
+      ↓
+Update lastFinish
+
+        ↓
+
+Continue until all activities are checked
+
+
+
+Factorial Knapsack
+
+
+Factorial knapsack: given weight 10,20,30, values 60, 100, 120 capacity is 50, 
+we are allow to take fractional of items : 
+item 1 = 6,
+item 2 = 5, 
+item 3 = 4.
+
+
+Procedure:
+
+
+		Start
+		| 
+	Calculate weight value
+		|
+	Pick highest ration item
+		|
+	Does entire item fit
+		|
+	/ 		\
+
+	Yes		No
+	|		|
+	Take entire
+	 item
+			 Take fraction
+	|
+	Update Capacity 	|
+				Bag becoming full
+	|
+	continue		|
+				Stop
+		
+
+
+
+
+
+Job Sequencing with deadline
+
+
+Problem: 
+
+Each job has
+1. job, 
+2. deadline, 
+3. profit  - can execute only one job at a time 
+Ex: find the max total profit & by using the deadline
+
+    Job		Deadline 	Profit
+
+    A 		2 		100
+    B 		1 		50
+    C 		2 		40
+    D 		1 		70
+    E 		3		60
+
+Algorithm:
+
+Create Job
+    |
+sort jobs by profit descending
+    | 
+find maximum deadline
+    |
+create time slots
+    |
+for each job:
+    |
+starts from its deadline
+    |
+move backward
+    |
+find latest time slots
+    |
+schedule job
+
+
+
+
+3. Problem
+=> Minimum platforms
+
+given arrival & departure timing of train, find the minimum requirement so that no train has to wait given:
+
+Arrival : 900 940 1100 1500 1800
+Departure : 910 1200 1120 1130 1900 2000
+Algorithm Minimum Platforms(arrival, departure)
+
+
+input:
+arrival[] -> arrival times of trains
+departure[] -> departure times of trains
+
+Output:
+Minimum number of platforms required
+
+Algorithm:
+step-1:
+Sort Arrival[] in ascending order
+
+Step-2:
+Sort.departure[] in ascending order
+
+Step-3:
+j <- 0
+j <- 0
+
+platforms <- 0
+maxPlatforms <- 0
+
+Step-4:
+while i<number of trains
+and j < number of trains
+
+if arrival[i] <= departure[i]
+
+platforms <- platforms + 1
+
+maxPlatforms <- max(maxPlatforms, platforms)
+
+i <- j <- 1
+
+else
+platforms <- platforms - 1
+
+j <- j <- 1
+
+Step-5:
+Return maxPlatforms
+
+end Algorithm 
+
+
+4.Problem
+Jump Game
+
+Each element tells with the max num of position , you can jump 
+ex: 2, 3, 1, 1, 4 - from index 0 up to second position 
+
+
+Algorithm
+
+1. set maxReach = 0
+
+2. for every index:
+a. if i > maxReach:
+return false
+b. calculate
+currentReach = i + nums[i]
+c. update
+maxReach = max(maxReach, currentReach)
+d.if maxReach >= last index:
+return true
+
+3. return true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
