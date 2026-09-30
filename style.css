@@ -1,5 +1,11 @@
+* {
+    margin: 10;
+    padding: 10;
+    background-color: #e4e4e4;
+}
+
 body {
-    margin: 5%;
+    margin: 10%;
     padding: 2%;
     margin-top: 0%;
 }
@@ -33,11 +39,16 @@ th,td {
     border: 2px solid black;
     padding: 10px;
     text-align: center;
+    line-height: 1.5;
 }
 
 th {
     background-color: #847d7d;
     color: white;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: normal;
+    word-spacing: normal;
 }
 
 tfoot {
@@ -54,9 +65,13 @@ form {
     width: 160px;
 }
 
+.title {
+    color: rgba(255, 20, 100, 1);
+}
+
 label {
     display: inline-block;
-    width: 80px;
+    width: 70px;
     font-weight: bold;
     text-align: left;
 }
@@ -84,4 +99,42 @@ button:hover {
     background-color: #726e6e;
     color: black;
     font-weight: bold;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 40px;
+    width: fit-content;
+}
+
+.box {
+    border: 2px solid black;
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.container1 {
+    display: flex;
+    flex-wrap: nowrap;
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 40px;
+    
+    align-items: center;
+    justify-content: center;
+}
+.box1 {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    margin: 20px;
 }

@@ -1,0 +1,14 @@
+.row .col {
+    background-color: #f8f9fa;
+    border: 2px solid #dee2e6;  
+    padding: 15px;            
+    border-radius: 4px;       
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 40px;
+    width: fit-content;
+}

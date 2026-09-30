@@ -2,7 +2,7 @@ HTML - hyper text markup language
 
 
 
-\-> is the standard markup language used to create and structure web pages, it tells the browser how content such as headings, paragraphs,
+-> is the standard markup language used to create and structure web pages, it tells the browser how content such as headings, paragraphs,
 
 &#x09;images, links, tables, and form should be organized.
 
@@ -152,26 +152,63 @@ SVG - scalable vector graphics is an xml based format, for creating vector graph
 HTML + JavaScript :-
 
 
+CSS3 :- cascading style sheet 
+is used to control the appearance, layout, colors, spacing, fonts, and responsiveness of a html element.
+
+Types of CSS
+1. Inline CSS :- using style attribute we define the styling.
+2. Internal CSS :- in head tag we use style tag and write the styling.
+3. External CSS :- use external CSS file and link it to the html then write styling.
+	is generally preferred for large projects because style can be reuse across multiple html pages.
+
+CSS Selector :-
+are the patterns used to select html element, that you want to style with css 
+	1. selector :- h1 is a selector, it selects all h1 elements in html page.
+	2. universal selector :- it selects all the html element on the page.
+	3. class selector :- it selects the html element using the class attribute.
+	4. id selector :- it selects the html element using the id attribute.
+
+Color 
+it supports several formats
+1. color name
+2. hexa value
+3. rgb - red, green, blue
+4. rgba - red, green, blue, alpha
+
+Text Properties
+it provides many properties for controlling text
+1. color - to specify the color or change the color
+2. text align - to specify the text position
+3. text decoration - used for removes or add underline 
+4. text transform - used to convert a lower case element to upper case or wise versa 
+5. letter spacing
+6. word spacing
+7. line height
+
+Fonts
+controls the appearance of a text 
+1. font-size
+2. font weight
+3. font style
+
+CSS UNITS
+Unit 		Meaning
+1.px 		pixel value - text
+2. % 		img, container - 
+3. em		relative to parent font size 
+4. rem 		relative to root font size 
+
+display flex -> converts an element into a flex container.
+
+flex-wrap -> determines whether the flex item should move to next line, whenever there is an enough space.
+
+align-items -> controls alignment along the cross axis
 
 
+BootStrap
 
+is a popular frontend CSS framework used to build responsive, mobile first website quickly using prebuilt css classes and js components.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+container :- is a layout component that provides a responsive fixed width area for a pitch contain.
 
 

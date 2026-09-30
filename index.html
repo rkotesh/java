@@ -11,12 +11,13 @@
         type="image/x-icon"
         href="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png"
     >
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-
+<div>
     <header>
         <nav>
             
@@ -38,7 +39,7 @@
         
 
     </header>
-
+</div>
     <hr>
 
     <section id="svg">
@@ -214,7 +215,7 @@
         <form>
 
             <fieldset>
-                <legend>Personal Information</legend>
+                <legend class="title">Personal Information</legend>
 
                 <label for="name">Name:</label>
                 <input
@@ -277,7 +278,7 @@
             <br>
           
             <fieldset>
-                <legend>Gender</legend>
+                <legend class="title">Gender</legend>
 
                 <input
                     type="radio"
@@ -299,7 +300,7 @@
             <br>
 
             <fieldset>
-                <legend>Skills</legend>
+                <legend class="title">Skills</legend>
 
                 <input
                     type="checkbox"
@@ -328,8 +329,8 @@
         </aside>
             <br>
 
-            <fieldset id="courses">
-                <legend>Course Selection</legend>
+            <fieldset>
+                <legend class="title">Course Selection</legend>
 
                 <label for="course">Course:</label>
 
@@ -337,14 +338,14 @@
                     <option value="">Select Course</option>
                     <option value="java">Java Full Stack</option>
                     <option value="python">Python Full Stack</option>
-                    <option value="web-development">Web Development</option>
+                    <option value="web-development">Web Development</option>  
                 </select>
             </fieldset>
 
             <br>
 
             <fieldset>
-                <legend>Address</legend>
+                <legend class="title">Address</legend>
 
                 <label for="address">Address:</label>
                 <br>
@@ -360,11 +361,24 @@
 
             <br>
 
-            <button type="submit" onclick="alert('Form Submittted')">Submit</button>
+            <button class="btn-primary" type="submit" onclick="alert('Form Submittted')">Submit</button>
 
         </form>
-    </section>
+    </section><hr>
+    <h3>display-flex</h3>
+    <div class="container"> 
+        <div class="box">one</div>
+        <div class="box">two</div>
+        <div class="box">three</div>
+    </div>
+    <hr>
 
+    <h3>display-flex-wrap</h3>
+    <div class="container1"> 
+        <div class="box1">one</div>
+        <div class="box1">two</div>
+        <div class="box1">three</div>
+    </div>
     <hr>
 
     <footer id="footer">
