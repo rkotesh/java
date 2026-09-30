@@ -1,0 +1,44 @@
+HTML - hyper text markup language
+
+-> is the standard markup language used to create and structure web pages, it tells the browser how content such as headings, paragraphs,
+	images, links, tables, and form should be organized.
+
+Types of Web:
+	two types -> 1. static
+		     2. dynamic
+
+Feature		Static Web		Dynamic Web
+
+content		fixed			changes dynamically
+technologies	html, CSS, JS		html, CSS, JS, backend, database
+Database	usually not required	usually required
+Login system	usually not available	commonly available
+
+
+
+Static Websites : it use to precreated html page to the browser, the content remains same unless the developer changes the html file and it is used to develop personal portfolios, college info page, documentation website.
+
+Dynamic Website : it generates content based on user input, database data, login info, or other conditions.
+	ex: banking applications.
+
+==> <meta charset="UTF-8">
+
+part	Meaning
+
+<meta>	provides info about the html doc
+charset	specifies the character encoding
+UTF-8 	encoded standard used to represent characters
+
+
+
+
+
+
+
+
+
+
+
+
+
+

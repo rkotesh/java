@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="heading">Welcome</h1>
+    <input type="text" name="name" id="name" placeholder="Enter Your Name">
+    <button type="submit" onclick="changeText()">Click Me</button>
+    <button type="button"  onclick="reverseText()">Submit</button>
+    <script>
+        function changeText() {
+            const name = document.getElementById('name').value;
+            document.getElementById('heading').innerText = "Welcome " + name;
+        }
+        function reverseText(){
+            const name = document.getElementById('name').value;
+            const reversedName = name.split('').reverse().join('');
+            document.getElementById('heading').innerHTML = "Welcome " + reversedName;
+        }
+        
+    </script>
+</body>
+</html>

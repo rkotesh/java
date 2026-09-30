@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Basics</title>
+
+    <link
+        rel="icon"
+        type="image/x-icon"
+        href="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png"
+    >
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            
+            <a href="#">Home</a>
+            <a href="#svg">SVG</a>
+            <a href="#about">About</a>
+            <a href="#courses">Courses</a>
+            <a href="#contact">Contact</a>
+            <a href="#footer">Footer</a>
+        </nav><hr>
+
+        <main>
+            <h1>Welcome to the Frontend</h1>
+        <p>
+            <strong>HTML</strong> is used to create the structure of
+            <strong>Web Pages</strong>.
+        </p>
+        </main>
+        
+
+    </header>
+
+    <hr>
+
+    <section id="svg">
+        <!--SVG-->
+
+        <svg width="600"
+            height= "400"
+            viewBox="0 0 600 400">
+            
+            <rect 
+            x="50"
+            y="50"
+            height="50"
+            width="100"
+            fill="blue"
+            >
+            </rect>
+
+            <circle
+            cx="400"
+            cy="100"
+            r="60"
+            fill="red"
+            >
+            </circle>
+
+            <line
+            x1="500"
+            y1="220"
+            x2="80"
+            y2="220"
+            stroke="black"
+            stroke-width="5"
+            >
+            </line>
+
+            <text 
+            x="180"
+            y="300"
+            font-size="30">
+            HTML SVG
+            </text>
+
+        </svg>
+
+    </section>
+    
+    <section id="about">
+        <h2>TATA Stock Prices</h2>
+
+        <p>
+            New Price: <mark>₹1,00,000</mark>
+            <br>
+            Old Price: <del>₹2,00,000</del>
+        </p>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Public Links</h2>
+
+        <a
+            href="https://cloud.google.com/"
+            target="_blank"
+            style="text-decoration: none; color: black;"
+        >
+            Google Cloud
+
+            <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScD-0SUH1NfMkJuuTHYGa-3VpWQ5CdyGhuLGFbVSi2GA&s=10"
+                alt="Google Cloud Logo"
+                style="height: 50px; width: 70px; vertical-align: middle;"
+                class="google-cloud-logo"
+            >
+        </a>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Ordered List</h2>
+
+        <ol>
+            <li>Sugar</li>
+            <li>Curd</li>
+            <li>Lemon</li>
+            <li>Ginger</li>
+        </ol>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Unordered List</h2>
+
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Description List</h2>
+
+        <dl>
+            <dt>React</dt>
+            <dd>A JavaScript library used to build user interfaces.</dd>
+
+            <dt>Django</dt>
+            <dd>A Python framework used to build web applications.</dd>
+
+            <dt>Spring Boot</dt>
+            <dd>A Java framework used to build secure applications.</dd>
+        </dl>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Student Marks</h2>
+
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Course</th>
+                    <th>Marks</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>101</td>
+                    <td>Ram</td>
+                    <td>Java</td>
+                    <td>99</td>
+                </tr>
+
+                <tr>
+                    <td>102</td>
+                    <td>Rkotesh</td>
+                    <td>Java</td>
+                    <td>100</td>
+                </tr>
+
+                <tr>
+                    <td>103</td>
+                    <td>Narendra</td>
+                    <td>Java</td>
+                    <td>89</td>
+                </tr>
+            </tbody>
+
+            <tfoot>
+                <tr>
+                    <td colspan="3">Average</td>
+                    <td>96</td>
+                </tr>
+            </tfoot>
+        </table>
+    </section>
+
+    <hr>
+
+    <section id="contact">
+        <h2>Contact Form</h2>
+
+        <form>
+
+            <fieldset>
+                <legend>Personal Information</legend>
+
+                <label for="name">Name:</label>
+                <input
+                    type="text"
+                    id="name"
+                    name="name"
+                    minlength="3"
+                    maxlength="20"
+                    placeholder="Enter your name"
+                    required
+                >
+
+                <br><br>
+
+                <label for="email">Email:</label>
+                <input
+                    type="email"
+                    id="email"
+                    name="email"
+                    placeholder="Enter your email"
+                    required
+                >
+
+                <br><br>
+
+                <label for="phone">Phone :</label>
+                <input
+                    type="tel"
+                    id="phone"
+                    name="phone"
+                    placeholder="Enter your phone number"
+                    required
+                >
+
+                <br><br>
+
+                <label for="password">Password:</label>
+                <input
+                    type="password"
+                    id="password"
+                    name="password"
+                    placeholder="Enter your password"
+                    required
+                >
+
+                <br><br>
+
+                <label for="age">Age:</label>
+                <input
+                    type="number"
+                    id="age"
+                    name="age"
+                    min="1"
+                    max="100"
+                    placeholder="Enter your age"
+                    required
+                >
+          </fieldset>
+
+            <br>
+          
+            <fieldset>
+                <legend>Gender</legend>
+
+                <input
+                    type="radio"
+                    id="male"
+                    name="gender"
+                    value="male"
+                >
+                <label for="male">Male</label>
+
+                <input
+                    type="radio"
+                    id="female"
+                    name="gender"
+                    value="female"
+                >
+                <label for="female">Female</label>
+            </fieldset>
+
+            <br>
+
+            <fieldset>
+                <legend>Skills</legend>
+
+                <input
+                    type="checkbox"
+                    id="java"
+                    name="skills"
+                    value="java"
+                >
+                <label for="java">Java</label>
+
+                <input
+                    type="checkbox"
+                    id="python"
+                    name="skills"
+                    value="python"
+                >
+                <label for="python">Python</label>
+
+                <input
+                    type="checkbox"
+                    id="javascript"
+                    name="skills"
+                    value="javascript"
+                >
+                <label for="javascript">JavaScript</label>
+            </fieldset>
+        </aside>
+            <br>
+
+            <fieldset id="courses">
+                <legend>Course Selection</legend>
+
+                <label for="course">Course:</label>
+
+                <select id="course" name="course" required>
+                    <option value="">Select Course</option>
+                    <option value="java">Java Full Stack</option>
+                    <option value="python">Python Full Stack</option>
+                    <option value="web-development">Web Development</option>
+                </select>
+            </fieldset>
+
+            <br>
+
+            <fieldset>
+                <legend>Address</legend>
+
+                <label for="address">Address:</label>
+                <br>
+
+                <textarea
+                    id="address"
+                    name="address"
+                    rows="5"
+                    cols="40"
+                    placeholder="Enter your address"
+                ></textarea>
+            </fieldset>
+
+            <br>
+
+            <button type="submit" onclick="alert('Form Submittted')">Submit</button>
+
+        </form>
+    </section>
+
+    <hr>
+
+    <footer id="footer">
+        <h4>Footer</h4>
+        <p>© 2026 HTML Basics. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
