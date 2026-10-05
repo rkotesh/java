@@ -212,3 +212,118 @@ is a popular frontend CSS framework used to build responsive, mobile first websi
 container :- is a layout component that provides a responsive fixed width area for a pitch contain.
 
 
+ES6 :- ecma script -> is a major version of js that introduce modern syntax and features to make js code easier, cleaner, more readable and easy to maintain.
+
+Important ES6 features
+1. let -> declare a block scoped variable whose value can be changed.
+2. const -> declare a block scoped variable whose binding cannot be reassigned 
+3. arrow function -> provides a shorter syntax, for function also used lexical this rather than creating their own
+	syntax :- const add = (a, b) => {
+			return a * b;
+		  }
+
+React :
+
+	const app() => {
+		return (
+		<h1>Hello</h1>
+		)
+	 }
+	export default app;
+
+
+
+Template literals :
+
+uses backticks ( ` ) and $ with pair of {} to insert expression into strings and they also supports multiple strings.
+	ex :-
+const app() => {
+    const name = "Ram";
+	return (
+	<h1>`Hello${name}`</h1>
+	)
+ }
+export default app;
+
+Distribution :
+es6
+
+const {name, age} = student;
+console.log(name);
+console.log(age);
+
+react
+const student({name, age)} => {
+return (<h1>{name}</h1>
+}
+);
+export default app;
+
+Js:
+
+Array Distribution :
+const numbers= [10, 20, 30];
+const[a,b,c] = numbers;
+console.log(a);
+console.log(b);
+console.log(c);
+
+react:
+const App= () => {
+const colors = ["Red", "Green", Black"];
+const['first', 'second', 'third'] = colors;
+return (
+<div>
+<p>{first}</p>
+<p>{second}</p>
+<p>{third}</p>
+</div>
+);
+};
+export default app;
+
+node package module
+
+
+
+React Oops and API integration :-
+are built in functions, in react that allows functional components to use features such as state management, side effects, life cycle related behaviour and reusable logic without writing classes 
+
+
+ex:
+you are building an online shopping website like amazon, you need to track how many products a user added to the cart update the total price when the changes fetch the product details from an api for this react oops implement those features in functional components.
+
+
+use state hook -> is a react hook used to maintain and manage state in functional component when state changes react render the components 
+to display the updated value.
+
+
+UseContext :-
+
+is a built in feature , react hook that allows component share without props manually through every level of component tree is mainly used for global state management such as user authentication, dark mode / light mode.	
+
+
+
+React API Integration :-
+means connecting a react application to an external api (other s/w) to send or receive data.
+
+Flow:
+
+React Application
+	|
+	API
+	|
+    Database
+	|
+	API
+	|
+React Display Data
+
+
+
+
+
+
+
+
+	
