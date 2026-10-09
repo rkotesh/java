@@ -1,0 +1,328 @@
+Backend
+
+Spring
+- spring core and dependency injection 
+
+Spring 								
+ this framework is a powerful java framework used to built enterprise application, it provides features such as dependency injection, inversion of control, jdbc and transaction management.
+
+SpringBoot
+ a framework built on the top of spring that simplifies spring application development by providing auto configuration, starter dependency, 
+embedded server and production easy features.
+
+Main Differences
+Spring					Spring Boot
+1. more manual configuration.		- mostly automatic
+2. more steps to configure 		- easy 
+3. add dependencies individually	- users starters 
+4. usually requires external server 
+for web apps 				- embedded tomcat 
+5. project creation is more manual	- uses spring initializer 
+
+Uses of Spring Core :-
+1. object creation and management 
+2. dependency injection 
+3. inversion of control
+4. improves code reusability and testing 
+
+Dependency Injection :-
+is design pattern in which an obj receives the other object. it depends on from an external source rather than creating itself.
+
+Types =>
+1. constructor - dependencies are provided through a class constructor.
+2. Setter Injection - dependencies are provided through setter methods. 
+3. Field Injections - (spring) dependencies are injected directly into the fields using an annotation such as auto wind. 
+
+
+
+
+
+
+Spring Boot
+used to build web application, rest api and backend apis quickly, it is built on the top of spring framework and reduces configuration using auto configuration, starter dependencies, embedded server and application.properties and spring annotation.
+
+Maven :- is build an dependency management tool for java projects. Maven can do download the required libraries, compile java code, run test cases, application management, package management. The main maven configuration file is pom.xml.
+
+Spring boot Architecture :-
+a spring boot application follow the architecture
+
+Architecture
+
+React Display Data
+	|
+      Client
+	|
+REST Controller
+	|
+Service Layer
+	|
+Repository Layer
+	|
+    Database
+
+
+Controller :- it receives request from the client.- mainly controls the urls(paths)
+
+ex: 
+@RESTController
+@RequestMapping("/students")
+public class studentController {
+	
+
+Service Layer :- contains the business logic that will be displayed in the control layer.
+
+ex: 
+@Service
+public class StudentService {
+public String getStudent() {
+	return "Ram";
+}
+}
+
+
+Repository Layer :- A Repository is an interface that provides a complete abstraction over Database Operations (CRUD).
+public interface studentRepository extends JpaRepository<Student, long> {
+}
+
+Methods - JpaRepository 
+
+| Method Name     | Purpose                                            |
+| --------------- | -------------------------------------------------- |
+| `save()`        | Saves a new or updated entity.                     |
+| `findAll()`     | Retrieves all entities from the database.          |
+| `findById()`    | Retrieves an entity using its ID.                  |
+| `existsById()`  | Checks whether an entity exists with the given ID. |
+| `count()`       | Returns the total number of entities.              |
+| `deleteById()`  | Deletes an entity using its ID.                    |
+| `delete()`      | Deletes the given entity.                          |
+| `findByEmail()` | Finds an entity using its email.                   |
+| `findByName()`  | Finds an entity using its name.                    |
+
+
+
+Hybernate:
+
+is a java (Object-Relational Mapping (ORM)) framework used to connect java application such as MySQL, oracle, PostgreSQL 
+it converts java objects into database, records and database records back into the java object.
+that maps java objects to database and allows developers to perform database operation using java object instead of writing sql for every operation.
+
+-> without ORM:
+java object
+   |
+sql query
+   |
+database table
+
+
+with hibernate:
+
+java object
+    |
+hibernate
+    |
+database table
+
+
+Suppose we have a java class:
+public class Student {
+private long id;
+private String name;
+private String email;
+}
+
+Add a MYSQL table:
+
+course table student (
+id bigint primary key,
+name varchar(100),
+email varchar(100)
+);
+
+Hibernate Maps:
+
+Student class 
+	|
+Student Table
+	|
+	id 
+	|
+	id
+	|
+	name
+	|
+	name
+	|
+	email	
+	|
+	email
+
+
+ORM -> object relational mapping is a technique used to convert a class into a database.
+
+Java Class -> Database Table 
+Java Field -> Database Column
+
+Class:
+
+@Entity
+public class Student {
+@id
+private Long id;
+private String name;
+private String email;
+}
+
+
+JPA-> is a specification that defines how java application should interact with the relational database.	
+Hibernate -> is a implementation of JPA 
+	
+Important Annotations
+1. @Entity
+2. @Table
+3. @Generated Value
+
+
+@Entity 
+marks a java class as a database entity
+@Entity
+public class Student {
+}
+
+------------------------------------------------------
+
+@Table
+specifies the database table
+@Entity
+@Table(name="students")
+public class Student{
+}
+
+------------------------------------------------------
+
+@Id
+defines the primary key
+@Id
+private Long id;
+
+------------------------------------------------------
+
+@GenaratedValur
+Automatically generates the primary key value
+@GeneratedValue(strategy = GenerationType.IDENTITY)
+private long id;
+
+------------------------------------------------------
+
+@Column
+maps a java field to a database column
+@Column(name = "Student_name")
+private Sting name;
+
+
+Spring Security -> is a spring framework used to provide authentication, authorisation and protection for the spring application and apis.
+It helps protecting web applications, rest apis, microservice, database backend application.
+
+Authentication
+means verifying who the user is.
+
+Authorisation
+determines what an authenticated user, is allowed to access.
+
+Spring Security Architecture 
+Client
+|
+Security filter chain
+|
+Authentication
+|
+UserDetailService
+|
+Database
+|
+UserDetails
+
+Spring Security  -> represents authenticated user information using user details.
+
+public class UserDetailsImpl implements UserDetails {
+private String username;
+private String password;
+//methods;
+}
+
+it contains info :
+- username
+- password
+- authorities
+- account status
+
+User Detail Service ->
+is a spring boot security interface used to load user info.
+
+ex:
+@Service
+public class CustomUserDetailService implements UserDetailService {
+@Override
+public UserDetailsloadUserByUsername(String username) {
+// find user from database
+return.../
+}
+}
+
+Password Encoder :
+password should never be stored as plain text instead stored as hashed password. Using password encoder
+
+JWT - Json Web Token -> is a compact digitally signed token used to securely transmit information between parties and is commonly used for stateless authentication in rest api 
+
+JWT Authentication flow :
+
+1 - User Login
+2 - Spring Security Verifies User
+3 - Password Verification
+4 - Generate JWT
+5 - Client sends JWT
+6 - JWT Filter
+7 - Access API
+
+
+Micro Service Architecture & API Communication, Rest Client and Web Client :-
+this architecture is a solution architecture in which a large application is divided into small independent service where each service is responsible for a specific business functionality responsibilities.
+
+
+Architecture :
+		  Client
+		    |
+	     Api gateway
+	    /	  |	\
+	Student Course	Faculty
+	Service Service Service
+
+
+Monolithic :-
+
+everything is inside one application, if application contains 100 modules all the modules are generally deployed together.
+Problem: if only student model changes, we need to re deploy entire application.	
+
+Architecture:
+	
+		College Application
+			|
+	----------------------------------
+	|		|		|
+    Student	     Course         Faculty
+	|		|		|
+	---------------------------------
+			|
+		    Database
+
+Microservices :-
+
+
+
+
+
+
+
+
+
+
+
