@@ -316,8 +316,298 @@ Architecture:
 
 Microservices :-
 
+each major functionality becomes an independent service, each service can be developed and deployed independently. 
+
+Architecture :
+
+		     Client
+			|
+		  API Gateway
+	----------------------------------
+	|		|		|
+    Student	     Course         Faculty
+    Service          Service        Service
+	|		|		|
+   StudentDB	    CourseDB       FacultyDB
+	---------------------------------
+
+Advantages :-
+1. independent deployment.
+2. one service can be deployed without re-deploying everything
+
+Scalability :
+- if student service receives heavy traffic only student service can be scaled.
+- fault isolation -> if course fails student service may continue running.
+
+Technology Flexibility :
+
+Different service can potentially use different technologies.
+student service - java
+course service - c++
+Faculty service - python
+Notification service - node.js
+Easier to maintain.
+
+Disadvantage :
+1. Security 
+2. Authentication
+3. Monitoring 
+4. Deployment
+
+API Communication :-
+is the process through which one application or service communicates with another application using an API.
+
+Flow: 
+Student Service
+|
+GET /courses
+|
+Course Service
+|
+Course Data
 
 
+Rest (Representational State Transfer) :
+is an architectural style used for designing web API's, REST ApI's normally communicates using http - common methods.
+
+Method	Purpose
+GET	Retrieve Data
+POST 	Create Data
+PUT 	Update Data
+PATCH 	partial update
+DELETE 	Delete data
+
+
+Student Service 
+API:
+GET https://localhost:8081/students
+
+Response:
+{
+{
+"id":1,
+"name":"RAM",
+"course":"Java"
+}
+{
+"id":2,
+"name":"Kotesh",
+"course":"Python"
+}
+}
+
+
+How microservice communicate 
+Suppose we have two service  
+student service port number is 8081 & course service and will use 8082 here student service need course info so the thing will be connected using ports and is called as service - service communication using https/GET.
+
+Student service
+|
+HTTPS GET
+|
+https://localhost:8082/courses
+|
+Course service
+
+Rest Client:
+is a component that send http request to a rest api and process the response.
+
+Student Service
+|
+Rest Client
+|
+Course service
+
+Spring Provides different ways to create rest clients two imp approaches are 
+
+1. Rest Template -> https to be synchronized- everything need to import from api automatically application starts.
+	is a spring class used to make synchronized http request to the rest api.
+
+Application
+|
+RestTemplate
+|
+REST AP
+|
+Response
+ex:
+RestTemplate restTemplate = new RestTemplate;
+String url = "https://localhost:8082/courses/1";
+Course course = restTemplate.getForObject(
+url,
+Course.class
+);
+
+
+2. Web client -> there is a requirement it need to be import from the software
+	is a spring modern http client used for communicating with rest api, it supports asynchronous communication and reactive programming.
+
+
+
+API Integration :-
+unit testing(JUnit5) and mopito.
+
+is the process of connecting two or more software applications through api so they can exchange data and use each other functionality.
+
+Architecture:
+
+Client	--> HTTP 	URL  --------->	 Server
+	GET		/surveys
+   |	POST		/surveys/123	  |
+   |	PUT				  |
+   |	PATCH				  |
+   | 				  	  |
+	----------------JSON--------------
+
+
+Important API Concepts :
+1. API through which application communicates using interface.
+ex: student API
+2. REST API (Architectural style) 
+is an architectural style for web apis and is used to perform restful cred api.
+3. Http protocol for communication over the web.
+ex: to get http methods.
+4. JSON - data integration format used to send or receive data.
+5. EndPoint - url that provides a particular operation.
+ex: used to fetch detect from the database using 'id'.
+	-> localhost:8080/api/students/2
+6. Request data send to an API.
+ex: Post student details.
+7. Response Data Return by an API using student details in json or database.
+8. Status Code -> indicates the result of a request.
+ex: 200 OK, 404 page not found.
+
+Common HTTP status Code:
+· 200 ok — Request completed successfully.
+· 201 Created — Resource created successfully.
+· 204 No Content — Successful request with no response body.
+· 400 Bad  Request — Invalid request data.
+· 401 Unauthorized — Authentication is required or invalid.
+· 403 Forbidden — The caller lacks permission.
+· 404 Not Found — Resource does not exist.
+· 500 Internal Server Error — Unexpected server-side error.	
+
+
+A Rest API can return structured JSON rather than plain text
+
+package com.example.demo.controller;
+import com.springframework.web.bind.annotation.*;
+import java.util.*;
+
+@RestController
+@RequestMapping("/students")
+public class StudentController {
+@GetMapping("/{id}")
+public Map.of(
+"id":id,
+"name":"Ram",
+"course":"Java"
+);
+}
+}
+
+API Integration testing:
+	it verifies whether the multiple components works together correctly or not.
+ex:
+- a spring boot application i need to verify that the controller receives the http request correctly.
+- service processes the request.
+
+Unit Testing : 
+is a process or smart testing isolated part of a program such as methods or class to confirm that it behaves as expected and the benefits of unit testing is 
+- detects the bug/code early 
+- makes the code easier to maintain
+- helps developer refactor easily 
+
+
+JUnit5 :
+JUnit 5 is the modern testing framework for the Java Virtual Machine (JVM), featuring a completely modular architecture. Unlike previous monolithic versions, it is split into three major components to separate test discovery and execution from the actual programming models
+
+• JUnit Platform: The underlying foundation that launches testing frameworks on the JVM. It defines the Test Engine API and integrates with build tools (like Maven or Gradle) and IDEs to discover and execute tests.
+• JUnit Jupiter: The modern programming and extension model used to write tests in JUnit 5. It contains all the new annotations (like @Test, @BeforeEach, @ParameterizedTest), assertions, and the dedicated engine to run them.
+• JUnit Vintage: The backward-compatibility engine. It allows legacy tests written in JUnit 3 and JUnit 4 to run seamlessly on the new JUnit Platform.
+
+JUnit5 Annotations :
+
+Annotation	Purpose
+
+@Test		Identifies a test method
+@BeforeEach	runs before every test method - methods
+@AfterEach	runs after every test method - methods
+@BeforeAll	runs once before all tests in the class
+@AfterAll	runs once after all tests in the class
+@DisplayName	give a readable test name
+@Disabled	disables a test case
+@Nested		groups related test inside another test class
+
+
+Logging : is the process of recording info about an application, execution, activities, warnings and errors.
+it helps developers understanding what is happening inside an application without stopping its execution or debugger.
+
+Why do we use logging 
+1. debugging -> identify problems in the application
+2. monitoring -> track application behaviour 
+
+Types log levels :
+1. TRACE : verify detailed diagnostic info, useful for tracing program execution
+ex:- log.trace("Entering findStudent());
+
+2. DEBUG : detailed info useful during development and debugging
+ex: log.debug("Searching for student id:()", id);
+
+3. INFO : normal application events and successful operations
+ex: log.info("Student registered successfully");
+
+4. WARN : unexpected situations that need attention but do not necessarily skip execution
+ex: log.warn("student record is missing in optional field");
+
+5. ERROR : failures that prevent an operation for completing successfully
+ex: log.error("Failed to save student");
+
+
+
+Code		Purpose
+
+Logger		provides logging methods
+LoggerFactory	creates a logger for class
+log.info	records informational messages
+log.warn	records warning messages
+log.error	records error messages
+{}		placeholder for a value
+
+Exceptional Handling :
+is an event that occurs during program execution and disrupts the normal flow of instructions.
+
+why do we need exceptional handling -> it provides meaningful error message separate business logic from error handling maintains application stability return appropriate http status code from rest api.
+
+Types of exception :
+1. checked exception -> exceptions are checked by the compiler, a method must handle them with try, catch or declare them with throws.
+
+2. unchecked exception -> is a subclass of runtime exception the compiler does not require them to be catch or declare.
+
+public class UncheckedException {
+public static void main(String[] args) {
+int a = 10;
+int b = 0;
+try {
+System.out.println(a / b);
+}
+catch (ArthematicException e) {
+System.out.println("Cannot divided by zero");
+}
+}
+}
+
+
+
+
+Render -> Deployment
+Docker -> container
+Railways -> mysql
+
+
+
+
+Docker : is an open-source platform used to build packages, and run applications inside container, a container includes an application and its required dependencies make it easier to run
 
 
 
